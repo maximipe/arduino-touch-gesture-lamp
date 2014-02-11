@@ -1,4 +1,4 @@
-Arduino-touch-light-lamp
+An arduino touch & gesture lamp
 ========================
 
 This is my graduation project for my design degree. 
