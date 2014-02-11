@@ -10,7 +10,7 @@ When the hand gesture runs from the enlighted area towards the sensor, the sketc
 movement to run the servo, in this case to gradually open the iris. When the user make a gesture that runs away 
 from the sensor, the opposite occurs.
 
-<h2>content</h2>
+<h1>Content</h1>
 
 The sketches are divided into two groups, to handle the device wirelessly and by cable. Transmisor and receptor
 sketches handle the wireless communication (using the Manchester library) besides the instructions for the sensor
